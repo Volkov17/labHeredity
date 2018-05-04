@@ -1,6 +1,6 @@
 # labHeredity
 
-main:
+# main:
 
  int main() {
     A* a1 = new B;
