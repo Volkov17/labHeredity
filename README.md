@@ -2,16 +2,16 @@
 
 # main:
 
- int main() {
-    A* a1 = new B;
-    a1->foo();
-    a1->bar();
-    a1->baz();
-
-    A* a2 = new C;
-    a2->foo();
-    a2->bar();
-    a2->baz();
+ int main() { 
+    A* a1 = new B;    
+    a1->foo();    
+    a1->bar();    
+    a1->baz();    
+          
+    A* a2 = new C;     
+    a2->foo();    
+    a2->bar();    
+    a2->baz();    
 }
 
 # рез-т:
